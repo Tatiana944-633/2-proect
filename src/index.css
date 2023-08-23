@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(184, 185, 240);
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: x-large;
+}
+
+code {
+  font-family: 'Nunito', sans-serif;
+  
+
+}
